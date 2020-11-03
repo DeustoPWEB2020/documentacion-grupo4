@@ -1,8 +1,9 @@
-# NOMBREDELSITIO
+# VIRUS: FUERA DE JUEGO
 
-Documentación para el proyecto de sitio web NOMBREDELSITIO.
+Documentación para el proyecto de sitio web Fuera de Juego.
 
-Aquí deberíais incluir una introducción a vuestro proyecto, explicación de por qué/para qué creáis el sitio web, etc.
+Nuestro proyecto se basará en la creación de un medio online para la publicación de nuestro contenido. Así pues, podríamos actualizar la información en la web sin la necesidad de utilizar una revista que nos supondría una tirada con cierta periodicidad.
+
 
 Estructura del repositorio:
 
@@ -14,4 +15,4 @@ Estructura del repositorio:
 
 ---
 
-Elaborado por [Nombre Apellido](http://USUARIO.github.io), [Nombre2 Apellido2](http://USUARIO2.github.io)...
+Elaborado por [Jon Juárez](http://jonjuarezz.github.io), [Iker Castaño](http://ikercastano.github.io), [Nikolas Quintano](http://nikolasQuintano.github.io), [Jon Ander Pérez](http://jonanperez.github.io) y [Xabier Ostolaza](http://xabierostolaza.github.io)
