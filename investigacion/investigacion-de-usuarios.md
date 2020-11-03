@@ -3,7 +3,7 @@
 
 ## Análisis
 
-<#Fútbol en Guipúzcoa
+Fútbol en Guipúzcoa
 
 Somos estudiantes de 4º año del grado de Comunicación en la Universidad de Deusto. Realizamos esta encuesta sobre el tratamiento del fútbol guipuzcoano en los medios de comunicación porque nos gustaría saber tu opinión sobre varios aspectos.
 
@@ -13,7 +13,7 @@ Agradecemos tu participación y tu disposición. Los datos del estudio serán tr
 
 ¡Muchas gracias!
 
-## Preguntas
+## Preguntas y reapuestas
 
 -Sobre ti- 
 
@@ -43,26 +43,4 @@ Nivel de estudios (Estudios universitarios, formación profesional, estudios sec
 -Medios de comunicación-
 
 ¿Conoces algún medio/programa de estos? Gipuzkoa kirolak (Radio Marca
-Donostia), Gipuzkoa Fútbol, Kirolak.net, Sección deportes Noticias de Gipuzkoa, Sección deportes El Diario Vasco, Ninguno y Mundo Deportivo
-
-
-
-
-
-
-
-
-
--->
-
-## Respuestas
-
-<!--
-    Respuestas obtenidas en vuestro cuestionario.
--->
-
-## Conclusiones
-
-<!--
-    Interpretación o conclusiones extraídas de las respuestas obtenidas a vuestro cuestionario.
--->
+Donostia), Gipuzkoa Fútbol, Kirolak.net, Sección deportes Noticias de Gipuzkoa, Sección deportes El Diario Vasco, Ninguno y Mundo Deportivo.
