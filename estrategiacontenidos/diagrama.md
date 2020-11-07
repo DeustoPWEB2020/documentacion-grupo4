@@ -13,4 +13,4 @@ El que crea la sesion puede subir imagenes:
 
 -->
 
-![texto alternativo o descripción de la imagen](nombre-archivo-imagen.png)
+![Diagrama de flujos con comentarios](Diagramadeflujos.png)
