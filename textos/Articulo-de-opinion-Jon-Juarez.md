@@ -1,5 +1,5 @@
 <!-- Aqui va el titulo -->
-## ¿Cine de Tarantino o de Morricone?
+# ¿Cine de Tarantino o de Morricone?
 
 Desde siempre me he considerado un gran fan del cine de Quentin Tarantino, pese a las
 duras criticas que el director siempre ha recibido, tachándole en más de una ocasión
@@ -13,9 +13,9 @@ Un día, sin previo aviso toda la concepción que tenia sobre el cine de Quentin
 daría un giro de ciento ochenta grados, como si me despertase de un largo letargo
 después de un gran golpe en la cabeza que me había dejado inconsciente.
 
+<!-- Aqui va el ladillo -->
 
-
-# Ennio Morricone: “Tarantino es un cretino y un ladrón”
+## Ennio Morricone: “Tarantino es un cretino y un ladrón”
 
 
 El responsable de proyectar las sombras que me hicieron ver la luz del sol en la caverna

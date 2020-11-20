@@ -1,4 +1,4 @@
-## Ejercicio Final
+# Ejercicio Final
 
 Debería de considerarse positiva la manera en la que la comunicación ha evolucionado. Ya sea por las llegadas de las TIC y sus accesibilidades, o por la gran cantidad de información que encontramos al alcance de nuestras manos. Aun así, en la práctica, esto último puede considerarse ambiguo; y es que hacer un uso crítico de todos los contenidos de la red se ha convertido en tarea fundamental. El periodismo ciudadano o la tan perseguida interacción en la era multimedia y web 2.0, donde el usuario es el principal activo, han permitido que cualquiera tenga la capacidad de difundir información, ya sea falsa o veraz, cumpliendo así con el artículo 11 de los Derechos Humanos: Libertad de expresión e información. Este hecho, a falta de ayudar, puede incluso ensuciar el proceso y el rigor comunicativo gracias al fino hilo que lo separa de ser o no ser un periodismo confiable y transparente.
 
