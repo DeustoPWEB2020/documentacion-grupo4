@@ -1,5 +1,4 @@
-/* Aqui va el titulo */
-
+<!-- Aqui va el titulo -->
 ## ¿Cine de Tarantino o de Morricone?
 
 Desde siempre me he considerado un gran fan del cine de Quentin Tarantino, pese a las
@@ -13,6 +12,11 @@ maestras del género.
 Un día, sin previo aviso toda la concepción que tenia sobre el cine de Quentin Tarantino
 daría un giro de ciento ochenta grados, como si me despertase de un largo letargo
 después de un gran golpe en la cabeza que me había dejado inconsciente.
+
+
+
+# Ennio Morricone: “Tarantino es un cretino y un ladrón”
+
 
 El responsable de proyectar las sombras que me hicieron ver la luz del sol en la caverna
 particular que es mi cabeza fue Ennio Morricone. El compositor más famoso en la
