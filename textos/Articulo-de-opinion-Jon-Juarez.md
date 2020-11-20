@@ -1,6 +1,5 @@
 <!-- Aqui va el titulo -->
 # ¿Cine de Tarantino o de Morricone?
-
 Desde siempre me he considerado un gran fan del cine de Quentin Tarantino, pese a las
 duras criticas que el director siempre ha recibido, tachándole en más de una ocasión
 como el director de cine mas sobrevalorado. Siempre he intentado tener un opinión clara
@@ -9,6 +8,7 @@ que la gente señalaba, aparte de las críticas que ha recibido hacia su persona
 entendía. Pero respecto a su obra, no entendía porque a la gente no le gustaba y la
 criticaba tan duramente, cuando películas como Kill Bill o Django me parecen obras
 maestras del género.
+
 Un día, sin previo aviso toda la concepción que tenia sobre el cine de Quentin Tarantino
 daría un giro de ciento ochenta grados, como si me despertase de un largo letargo
 después de un gran golpe en la cabeza que me había dejado inconsciente.
@@ -31,6 +31,7 @@ son una manera de premiar al espectador por su cultura, pero he de admitir que
 Tarantino abusa de este recurso). Pero eso no era lo importante, Morricone se quejaba
 de que sus composiciones no acompañaban a los fotogramas de Tarantino, sino que
 funcionaba de manera contraria.
+
 Luego resulto que la revista Playboy falseo las declaraciones de Morricone, ya que este
 las negó y les ha interpuesto una denuncia. Pero el daño ya estaba hecho y la duda se
 había sembrado en mi cabeza, ¿qué era lo que yo disfrutaba realmente el producto de
@@ -42,6 +43,7 @@ solo me trajo mas dudas, sin llegar a resolver ninguna incógnita.
 Por eso decidí someterlos a examen, para ello volví a revisar toda la filmografía de
 Tarantino en la que colabora Ennio Morricone y la trilogía del dólar, que es la que
 considero, la ópera prima de Morricone.
+
 Después de ver las películas, pude hacer grandes comparaciones y similitudes entre
 ellas, no solo a nivel musical, sino a nivel cinematográfico. He podido sacar en claro
 que Tarantino está muy influenciado por el espagueti western y que Ennio Morricone
