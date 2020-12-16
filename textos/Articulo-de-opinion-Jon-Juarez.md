@@ -18,7 +18,8 @@ después de un gran golpe en la cabeza que me había dejado inconsciente.
 
 <!-- Aqui va el ladillo -->
 
- <Ennio Morricone:  “Tarantino es un cretino y un ladrón”
+ Ennio Morricone: 
+ >  Tarantino es un cretino y un ladrón
 
 El responsable de proyectar las sombras que me hicieron ver la luz del sol en la caverna
 particular que es mi cabeza fue Ennio Morricone. El compositor más famoso en la
