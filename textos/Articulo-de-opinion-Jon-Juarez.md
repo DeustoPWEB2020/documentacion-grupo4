@@ -6,7 +6,7 @@ como el director de cine mas sobrevalorado. Siempre he intentado tener un opini�
 y objetiva sobre sus películas siendo critico con ellas. Sin embargo, no conseguía ver lo
 que la gente señalaba, aparte de las críticas que ha recibido hacia su persona, eso lo
 entendía. Pero respecto a su obra, no entendía porque a la gente no le gustaba y la
-criticaba tan duramente, cuando películas como Kill Bill o Django me parecen obras
+criticaba tan duramente, cuando películas como _Kill Bill_ o _Django_ me parecen obras
 maestras del género.
 
 Un día, sin previo aviso toda la concepción que tenia sobre el cine de Quentin Tarantino

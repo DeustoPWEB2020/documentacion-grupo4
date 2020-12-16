@@ -1,6 +1,6 @@
 # Cuestión de educación
 
-## Es domingo. Son las dos del mediodía y ayer saliste de fiesta. Te acabas de despertar, te  estiras, piensas en la noche anterior (si recuerdas algo) y te levantas a comer con tu  familia.
+* * Es domingo. Son las dos del mediodía y ayer saliste de fiesta. Te acabas de despertar, te  estiras, piensas en la noche anterior (si recuerdas algo) y te levantas a comer con tu  familia.
 
 No tienes demasiado apetito, sin embargo, acabas saboreando esa típica paella  dominguera de tu madre a la que tanto tiempo ha dedicado. Después, te acomodas en el  sofá, enchufas la televisión y al rato te das cuenta de que ya son las cinco y cuarto de la  tarde y a las seis has quedado con tus amigos. Te das una buena ducha, sales de casa,  caminas en solitario, llegas al bar de siempre, te reúnes con tus amigos, pides un mosto y  te sientas. Charloteas con ellos, sobre los cotilleos de la pasada noche e incluso sobre el  partido que ha jugado esa mañana la Real. Al rato, te das cuenta de que te falta algo (en  realidad no), lo piensas dos veces y lo acabas haciendo. Por un momento, abandonas la  mirada de tu amigo de enfrente, dejas el vaso en la mesa y realizas un movimiento sutil  con la mano introduciéndola en el bolsillo. Sí. El móvil, una vez más. Es la octava vez  que cojo el móvil en todo el día, y eso teniendo en cuenta que son las seis y veinte de la  tarde y me he levantado a las dos del mediodía. Una historia que se repite cada domingo. 
 
