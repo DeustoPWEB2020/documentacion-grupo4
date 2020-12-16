@@ -9,6 +9,9 @@ entendía. Pero respecto a su obra, no entendía porque a la gente no le gustaba
 criticaba tan duramente, cuando películas como _Kill Bill_ o _Django_ me parecen obras
 maestras del género.
 
+![_Kill Bill_ Logo](https://pics.filmaffinity.com/kill_bill_volume_1_aka_kill_bill_vol_1-216872360-large.jpg)
+![_Django_ Logo](https://pics.filmaffinity.com/Django_desencadenado-267443760-large.jpg)
+
 Un día, sin previo aviso toda la concepción que tenia sobre el cine de Quentin Tarantino
 daría un giro de ciento ochenta grados, como si me despertase de un largo letargo
 después de un gran golpe en la cabeza que me había dejado inconsciente.
