@@ -8,4 +8,6 @@ Finalmente, el lenguaje tiene que ser así:
 - cuidado
 
 Se sabe que la población está dispuesta a entrar en acción y a tomar medidas, debido a que ha habido mucho alarmismo y pánico. Ante semejante confusión y desconcierto, la credibilidad del mensaje es fundamental. Para ello, se siguen las declaraciones de la consejera de Salud del Gobierno Vasco: 
-> se debe diseñar un lenguaje que abarque a toda la población vasca, ya sean jóvenes, adultos, o mayores. De este modo, la ciudadanía comprenderá la situación y se generará una conexión significativa con el ciudadano. En definitiva, trasladar solamente las medidas saludables no basta para sensibilizar a las personas. Más allá de estas recomendaciones, hay que hacer creer y alcanzar un impacto positivo en todas y cada una de los individuos del País Vasco. 
+> se debe diseñar un lenguaje que abarque a toda la población vasca, ya sean jóvenes, adultos, o mayores.
+
+De este modo, la ciudadanía comprenderá la situación y se generará una conexión significativa con el ciudadano. En definitiva, trasladar solamente las medidas saludables no basta para sensibilizar a las personas. Más allá de estas recomendaciones, hay que hacer creer y alcanzar un impacto positivo en todas y cada una de los individuos del País Vasco. 
