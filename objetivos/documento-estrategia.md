@@ -10,7 +10,7 @@ Podríamos considerar que hemos solucionado el problema si somos capaces de ofre
 
 
 ## Circunstancias de uso
-prueba
+
 Para la creación de nuestro proyecto nos hemos fijado en las demandas de los ciudadanos guipuzcoanos que solicitaban un medio que trasladara la información de fútbol guipuzcoano en esta época tan difícil de COVID-19. De esta manera, nuestro público objetivo serán aquellos aficionados o activos del fútbol guipuzcoano. Es decir, jugadores, entrenadores, familiares…
 
 El usuario tendrá como beneficio obtener información veráz sobre cómo está la actualidad del fútbol guipuzcoano y cómo se suceden los acontecimientos provocados por el COVID-19. De esta manera, el usuario obtendrá el resultado de estar informado sobre los hechos que le interesen.
