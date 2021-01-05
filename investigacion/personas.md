@@ -18,5 +18,5 @@ Iker consume a diario medios deportivos pues está muy interesado en las informa
 
 ## Persona 3:  Asier
 
-Asier no consume medios deportivos de manera habitual, esta medianamente interesado en las informaciones deportivas. Por eso se informa sobre los acontecimientos deportivos de vez en cuando y cuando lo hace utiliza las redes sociales como principal medio de información. Cree que un medio que hable del impacto del covid-19 en el futbol guipuzcoano le resultaría interesante.
+Asier no consume medios deportivos habitualmente, aunque si está interesado en las informaciones deportivas. Las redes sociales son la vía por la que se informa sobre los distintos acontecimientos deportivos. La utiliza frecuentemente, al día cuatro horas aproximadamente. No consume web y apenas utiliza los medios de comunicación. Cree que un medio que hable del impacto del Covid-19 en el fútbol guipuzcoano le resultaría interesante.
 
